@@ -1,6 +1,6 @@
 **Superstore Sales Analysis & Dashboard**
       using Python and Power BI
-      
+      This project demonstrates end-to-end data analysis and dashboarding skills for business decision-making.
 **Project Overview**
 
 This project analyzes a retail superstore dataset to uncover key insights into sales performance, profitability, and discount strategies.
