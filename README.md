@@ -30,7 +30,7 @@ Superstore-Sales-Analytics/
 ├── README.md
 
 **Dashboard Preview**
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard.png)
 
 
 Key Insights:
